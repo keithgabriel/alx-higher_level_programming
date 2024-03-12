@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello McAndrews"
+#!/usr/bin/python3
+print("Hello McAndrews")
